@@ -1,0 +1,20 @@
+.tabla{
+display: table;
+border: medium #C0C0C0 solid;
+width: 400px;
+}
+.columna1{
+display: table-cell;
+border: 2px dotted #C0C0C0;
+width: 120px;
+}
+.columna2{
+display: table-cell;
+border: 2px dotted #C0C0C0;
+width: 70%;
+}
+.columna3{
+display: table-cell;
+border: 2px dotted #C0C0C0;
+width: auto;
+}
